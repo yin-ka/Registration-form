@@ -22,7 +22,7 @@
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://yin-ka.github.io/Registration-Form/)
+- [Live Demo Link](https://yin-ka.github.io/Registration-form/)
 
 
 ## 💻 Getting Started 
